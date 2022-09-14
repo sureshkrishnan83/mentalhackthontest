@@ -9,7 +9,7 @@ const emojis = [
   },
   {
     emoji: '🎉',
-    name: "party popper"
+    name: "party popper Testing"
   },
   {
     emoji: '💃',
